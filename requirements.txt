@@ -1,0 +1,21 @@
+# RAG Chatbot - зависимости бэкенда
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+langchain
+langchain-groq
+langchain-chroma
+langchain-huggingface
+langchain-text-splitters
+chromadb
+sentence-transformers
+PyMuPDF
+python-docx
+pywin32
+watchdog
+pytesseract
+Pillow
+tiktoken
+pydantic
+aiofiles
